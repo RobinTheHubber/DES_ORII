@@ -1,8 +1,8 @@
 # DES_ORII
-Welcome to the repository for python files of the DES practical! In times as these, a (social/online) version control system such as github may prove very useful. I would like to start with asking a few questions and proposing few guidelines. 
+Welcome to the repository for python files of the DES practical! In times as these, a (social/online) version control system such as github may prove very useful, I myself will be updating/uploading my own files here. I would like to start with asking a few questions and proposing few guidelines. 
 
-1. Do you guys know how to use github?
-2. Will we be writing everything in python?
+1. Do you guys know how to use github? (starting point -> https://guides.github.com/activities/hello-world/)
+2. Will we be writing everything in python? 
 3. Proposal for naming variables, functions and classes:
 - classes: UpperCamelCase: "class MyClass:"
 - functions: lower_snake_case: "def this_function(iA):" 
